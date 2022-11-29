@@ -1,0 +1,19 @@
+{
+  "name": "@hansuhhi-don/eslint-config",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.41.0",
+    "eslint-plugin-vue": "^9.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  }
+}
