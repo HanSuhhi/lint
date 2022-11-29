@@ -5,8 +5,7 @@
   "scripts": {
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "pnpm build && pnpm release:only",
-    "release:only": "changeset publish --registry=https://registry.npmjs.com/"
+    "release": "changeset publish --registry=https://registry.npmjs.com/"
   },
   "keywords": [],
   "author": "",
