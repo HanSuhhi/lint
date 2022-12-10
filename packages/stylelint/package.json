@@ -1,0 +1,20 @@
+{
+  "name": "@hansuhhi-don/stylelint-config",
+  "version": "0.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-order": "^5.0.0",
+    "@condorhero/stylelint-config-vue": "^2.0.0"
+  },
+  "devDependencies": {
+    "stylelint": "^14.11.0"
+  }
+}
